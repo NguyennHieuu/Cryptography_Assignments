@@ -102,7 +102,7 @@ public:
 };
 
 int main() {
-    string key = "HIEUNGUYEN";
+    string key = "MONARCHY";
     string plaintext = "Do you like to study a cryptography course";
 
     PlayfairCipher cipher(key);
